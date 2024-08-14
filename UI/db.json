@@ -1,0 +1,113 @@
+{
+  "seller": [
+    {
+      "id": "f93a",
+      "name": "onkar123",
+      "email": "onkar1@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1d1e",
+      "name": "onkar456",
+      "email": "onkar2@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5d44",
+      "name": "onkar789",
+      "email": "onkar3@gmail.com",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "name": "I Phone 14",
+      "price": "1500",
+      "category": "mobile",
+      "color": "red",
+      "description": "hello, this is Apple product",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSRxsOGzFigT4zZWtmGF-Q755uYdLsLqgZRMDgy0ZHhjBhZAHeSbb5XIztXPH0oMub9mqx8q5ao7_-H7D5xx8JUSxs5A3Gasfr1bJWI6w1b",
+      "id": "224b"
+    },
+    {
+      "name": "HP laptop",
+      "price": "10000",
+      "category": "Laptop",
+      "color": "silver",
+      "description": "A HP Product",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1721384888/Croma%20Assets/Computers%20Peripherals/Laptop/Images/259473_0_gar9fx.png?tr=w-600",
+      "id": "05bb"
+    },
+    {
+      "id": "2e0b",
+      "name": "Samsung Galaxy S10",
+      "price": "17000",
+      "category": "mobile",
+      "color": "black",
+      "description": "Samsung brand new mobile phone",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLJWAouh4JiO36U4_Yjkepg2ldt8oASJGuIBUB2UhFTCELCeo24snjyyA5YnM_Mw9ftIMXv9aZSGBgizHDduif034o9lqYzWmAXWA_GEZ2z-cjXt2Lr77WXQ&usqp=CAE"
+    },
+    {
+      "id": "6bbd",
+      "name": "Vivo T2 Pro 5G",
+      "price": "19000",
+      "category": "mobile",
+      "color": "gold",
+      "description": "Vivo brand new mobile phone",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPAYYuw0dHHJV5F5uJmrvcWrGlh0alFHb-FreyEF2-Hm5c7Dphyly9vWkzfHLQrz5v-9TjE4NYs5TRfR7sdjBQWcMah9OREDF1MABGTVM6V3qz2QTskx3q8w&usqp=CAE"
+    },
+    {
+      "id": "c94f",
+      "name": "Redmi Note 13 5G",
+      "price": "21000",
+      "category": "mobile",
+      "color": "white",
+      "description": "Brand new mobile phone from redmi",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTIWT36vy5lgHwF-XKJpnBBb5U7r_Lb9NU75wwHaFa39rnVuiA556OI0yU9HFPQu3R53GBiOVwtGDvCN10LIYKpemDo6rqFOg&usqp=CAE"
+    }
+  ],
+  "users": [
+    {
+      "id": "bef0",
+      "name": "onkar",
+      "email": "onkar@gmail.com",
+      "password": "123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "9d6e",
+      "name": "I Phone 14",
+      "price": "1500",
+      "category": "mobile",
+      "color": "red",
+      "description": "hello, this is Apple product",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSRxsOGzFigT4zZWtmGF-Q755uYdLsLqgZRMDgy0ZHhjBhZAHeSbb5XIztXPH0oMub9mqx8q5ao7_-H7D5xx8JUSxs5A3Gasfr1bJWI6w1b",
+      "quantity": 1,
+      "userId": "1fde",
+      "productId": "224b"
+    },
+    {
+      "id": "a313",
+      "name": "HP laptop",
+      "price": "10000",
+      "category": "Laptop",
+      "color": "silver",
+      "description": "A HP Product",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1721384888/Croma%20Assets/Computers%20Peripherals/Laptop/Images/259473_0_gar9fx.png?tr=w-600",
+      "quantity": 1,
+      "userId": "1fde",
+      "productId": "05bb"
+    }
+  ],
+  "orders": [
+    {
+      "id": "9b46",
+      "email": "onkar1@gmail.com",
+      "address": "f",
+      "contact": "jo@gmailc.om",
+      "totalPrice": 1600,
+      "userId": "1fde"
+    }
+  ]
+}
